@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 It is a dev branch.
 It is a test file.
+It is a dev branch and test.
+
